@@ -82,4 +82,4 @@ Aplicación en Spring Boot para administración y organización de revistas.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6775-5908-a6ce39.svg)](https://orcid.org/0009-0000-6775-5908)
+
