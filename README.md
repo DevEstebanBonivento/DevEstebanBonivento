@@ -62,7 +62,7 @@ Aplicación en Spring Boot para administración y organización de revistas.
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevEstebanBonivento&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=8B1A1A&icon_color=8B1A1A&text_color=F5F5F5&count_private=true" width="48%" alt="Estadísticas de GitHub de Esteban"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEstebanBonivento&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=8B1A1A&text_color=F5F5F5" width="48%" alt="Lenguajes más usados"/>
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6775-5908-a6ce39.svg)](https://orcid.org/0009-0000-6775-5908)
+
 </div>
 
 <div align="center">
@@ -82,3 +82,4 @@ Aplicación en Spring Boot para administración y organización de revistas.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6775-5908-a6ce39.svg)](https://orcid.org/0009-0000-6775-5908)
