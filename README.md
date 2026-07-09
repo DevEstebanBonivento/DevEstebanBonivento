@@ -1,92 +1,82 @@
-# 👋 Hola, soy Esteban Bonivento
+<div align="center">
 
-### 🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollador en formación
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:8b1a1a&height=200&section=header&text=Esteban%20Bonivento&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20%26%20Emprendedor%20Tech&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/TU_USUARIO">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B1A1A&center=true&vCenter=true&width=600&lines=Estudiante+de+Programaci%C3%B3n+%7C+Universidad+de+La+Guajira;Construyendo+IA+Cousin+%E2%80%94+IA+para+negocios+locales;Java+%2B+Spring+Boot+%2B+Thymeleaf;Aprendiendo+cada+d%C3%ADa%2C+construyendo+cada+noche" alt="Typing SVG" />
+</a>
+
+</div>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas** apasionado por el aprendizaje continuo y el desarrollo de soluciones tecnológicas.
+Estudiante de pregrado en **Universidad de La Guajira**, enfocado en programación y desarrollo de software. Combino lo que aprendo en clase con proyectos reales: estoy construyendo un ecosistema de dos negocios propios, aplicando directamente lo que estudio en vez de esperar a graduarme para empezar.
 
-Actualmente me enfoco en fortalecer mis conocimientos en **programación**, **bases de datos**, **ingeniería de software** e **inteligencia artificial**, participando en proyectos académicos y personales que me permitan mejorar mis habilidades técnicas y de resolución de problemas.
-
----
-
-## 🎯 Áreas de interés
-
-- 💻 Desarrollo de Software
-- ⚙️ Programación Backend
-- 🗄️ Bases de Datos
-- 🤖 Inteligencia Artificial
-- 🏗️ Arquitectura de Sistemas
-- 🔄 Automatización de Procesos
-- 📊 Gestión de Proyectos Tecnológicos
+- 🏗️ Actualmente desarrollando **IA Cousin** — una plataforma de servicios de transformación digital para negocios locales (WhatsApp Business, optimización de Google Maps, chatbots, sitios web) construida con **Spring Boot + Thymeleaf**.
+- 🛍️ Fundador de una marca de ropa en paralelo, integrada al mismo ecosistema digital.
+- 🎯 Prefiero aprender construyendo: cada funcionalidad nueva que domino, la aplico primero a mis propios proyectos.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Stack actual
 
-### Lenguajes de Programación
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8B1A1A?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-8B1A1A?style=for-the-badge&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-8B1A1A?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-8B1A1A?style=for-the-badge&logo=springsecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-1a1a1a?style=for-the-badge&logo=h2&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1a1a1a?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-### Bases de Datos
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Herramientas
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 📚 Proyectos Destacados
+## 📌 Proyectos destacados
+
+### 🤖 [IA Cousin](https://github.com/TU_USUARIO/empresa-ia-web) — *En desarrollo*
+Plataforma web para digitalizar negocios locales: registro y autenticación con verificación por correo, gestión de servicios, y diseño propio construido desde cero en Spring Boot + Thymeleaf.
+
+### 💇 [Gestor de Reservas — Peluquería María](https://github.com/TU_USUARIO/gestor-reservas)
+Sistema de gestión de citas en Java puro: arreglos paralelos, validación de entradas, y arquitectura modular (`App`, `Menu`, `Validador`, `Operaciones`).
 
 ### 📰 Sistema de Gestión de Revistas
-
-Aplicación desarrollada en **Java** para la administración y organización de revistas mediante menús interactivos y estructuras de datos.
-
-### 🖥️ Proyectos Académicos
-
-Implementación de algoritmos, estructuras de datos, matrices, métodos de ordenamiento y conceptos de programación orientada a objetos.
-
-### 🎬 Edición de Video (Amateur)
-
-Ocasionalmente realizo edición de video de forma amateur para proyectos personales y contenido digital.
+Aplicación en Spring Boot para administración y organización de revistas.
 
 ---
 
-## 🌱 Actualmente Aprendiendo
+## 🌱 Aprendiendo ahora
 
-- Programación Orientada a Objetos avanzada
-- Ingeniería de Software
-- Desarrollo Full Stack
-- Inteligencia Artificial
-- Computación en la Nube
+`Programación Orientada a Objetos avanzada` · `Spring Security` · `Arquitectura Full Stack` · `Integración de IA en aplicaciones reales`
 
 ---
 
-## 🎯 Objetivo Profesional
+## 📊 Estadísticas
 
-Convertirme en un **Ingeniero de Software** capaz de diseñar soluciones eficientes, escalables y bien estructuradas, contribuyendo al desarrollo tecnológico mediante el aprendizaje continuo y la innovación.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=8b1a1a&icon_color=8b1a1a&text_color=f5f5f5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=8b1a1a&text_color=f5f5f5" width="48%"/>
 
-## 📈 GitHub Stats
-
-![Esteban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+</div>
 
 ---
 
-## 🤝 Conectemos
+<div align="center">
 
-Siempre abierto a aprender, colaborar en proyectos y seguir creciendo como desarrollador.
+### 🤝 Conectemos
 
-⭐ _"La tecnología es una herramienta; el aprendizaje constante es la verdadera ventaja."_
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+
+<sub>💬 _"La tecnología es una herramienta; construir con ella todos los días es la verdadera ventaja."_</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
+
+</div>
