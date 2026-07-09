@@ -60,16 +60,20 @@ Aplicación en Spring Boot para administración y organización de revistas.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevEstebanBonivento&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=8b1a1a&icon_color=8b1a1a&text_color=f5f5f5" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEstebanBonivento&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=8b1a1a&text_color=f5f5f5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevEstebanBonivento&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=8B1A1A&icon_color=8B1A1A&text_color=F5F5F5&count_private=true" width="48%" alt="Estadísticas de GitHub de Esteban"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEstebanBonivento&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=8B1A1A&text_color=F5F5F5" width="48%" alt="Lenguajes más usados"/>
 
+</div>
+
+<div align="center">
+<sub>📎 Si las estadísticas no cargan, es una caída temporal del servicio gratuito — <a href="https://github.com/DevEstebanBonivento?tab=repositories">visita mis repositorios directamente</a>.</sub>
 </div>
 
 ---
 
 <div align="center">
 
-### 🤝 Conectemos
+## 🤝 Conectemos
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevEstebanBonivento)
 
