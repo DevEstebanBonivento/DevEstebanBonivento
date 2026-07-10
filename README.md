@@ -10,10 +10,9 @@
 
 ## 🚀 Sobre mí
 
-Estudiante de pregrado en **Universidad de La Guajira**, enfocado en programación y desarrollo de software. Combino lo que aprendo en clase con proyectos reales: estoy construyendo un ecosistema de dos negocios propios, aplicando directamente lo que estudio en vez de esperar a graduarme para empezar.
+Estudiante de pregrado en **Universidad de La Guajira**, enfocado en programación y desarrollo de software(Ingenieria en Sistemas ). Combino lo que aprendo en clase con proyectos reales: estoy construyendo un ecosistema de dos negocios propios, aplicando directamente lo que estudio en vez de esperar a graduarme para empezar.
 
-- 🏗️ Actualmente desarrollando **IA Cousin** — una plataforma de servicios de transformación digital para negocios locales (WhatsApp Business, optimización de Google Maps, chatbots, sitios web) construida con **Spring Boot + Thymeleaf + Spring Security**.
-- 🛍️ Fundador de una marca de ropa en paralelo, integrada al mismo ecosistema digital.
+"Actualmente, estoy potenciando mis habilidades técnicas a través de la ruta de formación en DevSenior, recorriendo un programa intensivo que va desde los fundamentos de Java hasta arquitecturas avanzadas a nivel Senior. En este proceso, estoy profundizando en el desarrollo backend, buenas prácticas, patrones de diseño y la construcción de aplicaciones robustas y escalables con el ecosistema de Java."
 - 🎯 Prefiero aprender construyendo: cada funcionalidad nueva que domino, la aplico primero a mis propios proyectos.
 
 ---
